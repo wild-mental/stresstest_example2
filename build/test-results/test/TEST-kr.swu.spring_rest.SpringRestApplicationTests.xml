@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kr.swu.spring_rest.SpringRestApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-26T01:47:03" hostname="Chad-Chaes-MacBook-Pro.local" time="1.309">
+  <properties/>
+  <testcase name="contextLoads()" classname="kr.swu.spring_rest.SpringRestApplicationTests" time="1.309"/>
+  <system-out><![CDATA[10:46:59.961 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [kr.swu.spring_rest.SpringRestApplicationTests]: SpringRestApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+10:47:00.110 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration kr.swu.spring_rest.SpringRestApplication for test class kr.swu.spring_rest.SpringRestApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.2)
+
+2024-02-26T10:47:00.697+09:00  INFO 4883 --- [    Test worker] k.s.s.SpringRestApplicationTests         : Starting SpringRestApplicationTests using Java 20.0.1 with PID 4883 (started by chaejonghun in /Users/chaejonghun/swu_stress_test2/swu_stresstest_example)
+2024-02-26T10:47:00.705+09:00  INFO 4883 --- [    Test worker] k.s.s.SpringRestApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2024-02-26T10:47:03.081+09:00  INFO 4883 --- [    Test worker] k.s.s.SpringRestApplicationTests         : Started SpringRestApplicationTests in 2.822 seconds (process running for 4.528)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/swu_stresstest.iml" filepath="$PROJECT_DIR$/.idea/swu_stresstest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_rest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_rest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stresstest_example2.iml" filepath="$PROJECT_DIR$/.idea/stresstest_example2.iml" />
     </modules>
   </component>
 </project>

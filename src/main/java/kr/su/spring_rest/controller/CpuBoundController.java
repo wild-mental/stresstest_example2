@@ -1,4 +1,4 @@
-package kr.swu.spring_rest.controller;
+package kr.su.spring_rest.controller;
 
 import jakarta.xml.bind.DatatypeConverter;
 import org.springframework.web.bind.annotation.RequestMapping;

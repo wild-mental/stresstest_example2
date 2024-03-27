@@ -1,4 +1,4 @@
-package kr.swu.spring_rest.controller;
+package kr.su.spring_rest.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 // @RestController 애너테이션이 붙은 클래스는 컨트롤러로 정의됩니다.
 @RestController
 public class TestController {
-
     // 어떤 주소로 접속하면 어떤 기능을 실행할지 결정할 수 있는데
     // 메서드 위에 @RequestMapping("패턴") 으로 지정할 수 있음
     // 기본적 서버 주소 : localhost:8080
@@ -45,6 +44,4 @@ public class TestController {
         System.out.println(day + 100);
         return kw + day + "일";
     }
-
-
 }
